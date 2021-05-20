@@ -1,0 +1,44 @@
+user
+id,email
+1,8qyi4xn@gmail.com
+2,tuol1x@gmail.com
+3,785tlpo@gmail.com
+4,ksotld5@gmail.com
+5,vyq0nk20@gmail.com
+6,7tsvuj@gmail.com
+7,ewbka@gmail.com
+8,5vnxp@gmail.com
+9,nzgpv0y@gmail.com
+10,3ydj@gmail.com
+11,dtbymnk@gmail.com
+12,gfce00@gmail.com
+13,mlpn@gmail.com
+14,cwh2t@gmail.com
+15,k7e7t1n@gmail.com
+16,no25czx3@gmail.com
+17,mmdjlulp@gmail.com
+18,34dd43tx@gmail.com
+19,smjc6c@gmail.com
+20,tzimo@gmail.com
+course
+id,name,subject,language,author,user
+1,Android Development,Programming,English,10,2
+2,Flutter Mobile Course,Programming,English,8,15
+3,Math Basics,Math,Ukrainian,12,19
+4,Math Basics,Programming,Ukrainian,5,14
+5,Math Basics,Languages,Ukrainian,12,18
+6,Math Basics,Languages,English,10,7
+7,Math Basics,Languages,English,2,14
+8,Data Science,Math,Ukrainian,8,19
+9,Math Basics,Languages,Ukrainian,4,8
+10,Flutter Mobile Course,Languages,English,4,7
+11,Java Junior Dev Course,Math,English,15,7
+12,Python,Languages,English,7,9
+13,Java Junior Dev Course,Languages,Ukrainian,3,0
+14,Java Junior Dev Course,Programming,English,18,3
+15,Android Development,Programming,English,16,3
+16,Java Junior Dev Course,Programming,Ukrainian,8,11
+17,Android Development,Programming,Ukrainian,12,16
+18,Java Junior Dev Course,Math,Ukrainian,1,1
+19,Data Science,Languages,Ukrainian,2,12
+20,English for rookies,Programming,English,20,9
